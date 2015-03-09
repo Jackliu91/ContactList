@@ -1,0 +1,24 @@
+c:\users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.MainForm.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.Cache
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.ExitForm.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.GroupForm.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Debug\ContactList.PersonForm.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\Jack\Desktop\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\Jack\Desktop\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.GroupForm.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.ExitForm.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.MainForm.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.PersonForm.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\Jack\Desktop\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.Cache

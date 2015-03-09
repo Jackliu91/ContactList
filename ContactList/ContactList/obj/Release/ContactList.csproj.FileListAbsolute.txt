@@ -1,0 +1,8 @@
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Release\ContactList.exe.config
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Release\ContactList.exe
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\bin\Release\ContactList.pdb
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Release\ContactList.MainForm.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Release\ContactList.Properties.Resources.resources
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Release\ContactList.csproj.GenerateResource.Cache
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Release\ContactList.exe
+C:\Users\建坤\documents\visual studio 2013\Projects\ContactList\ContactList\obj\Release\ContactList.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jack\Desktop\ContactList\ContactListLibrary\bin\Debug\ContactListLibrary.dll
+C:\Users\Jack\Desktop\ContactList\ContactListLibrary\bin\Debug\ContactListLibrary.pdb
+C:\Users\Jack\Desktop\ContactList\ContactListLibrary\obj\Debug\ContactListLibrary.dll
+C:\Users\Jack\Desktop\ContactList\ContactListLibrary\obj\Debug\ContactListLibrary.pdb
+C:\Users\Jack\Desktop\ContactList\ContactListLibrary\obj\Debug\ContactListLibrary.csprojResolveAssemblyReference.cache

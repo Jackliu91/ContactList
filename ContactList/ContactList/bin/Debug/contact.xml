@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<ContactList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Groups>
+    <Group>
+      <Persons>
+        <Person>
+          <PersonName>a</PersonName>
+          <PersonPhone>
+            <Phones>
+              <string />
+              <string />
+              <string />
+              <string />
+            </Phones>
+          </PersonPhone>
+          <PersonEmail />
+          <PersonRemark />
+          <PersonPicture>8</PersonPicture>
+        </Person>
+      </Persons>
+      <GroupName>未分组</GroupName>
+    </Group>
+    <Group>
+      <Persons>
+        <Person>
+          <PersonName>aa</PersonName>
+          <PersonPhone>
+            <Phones>
+              <string />
+              <string />
+              <string />
+            </Phones>
+          </PersonPhone>
+          <PersonEmail />
+          <PersonRemark />
+          <PersonPicture>1</PersonPicture>
+        </Person>
+        <Person>
+          <PersonName>ac</PersonName>
+          <PersonPhone>
+            <Phones>
+              <string>1</string>
+              <string />
+            </Phones>
+          </PersonPhone>
+          <PersonEmail />
+          <PersonRemark />
+          <PersonPicture>9</PersonPicture>
+        </Person>
+        <Person>
+          <PersonName>bac</PersonName>
+          <PersonPhone>
+            <Phones>
+              <string />
+            </Phones>
+          </PersonPhone>
+          <PersonEmail />
+          <PersonRemark />
+          <PersonPicture>5</PersonPicture>
+        </Person>
+      </Persons>
+      <GroupName>bb</GroupName>
+    </Group>
+  </Groups>
+</ContactList>

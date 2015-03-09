@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\ContactList\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Jack\Desktop\ContactList\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Jack\Desktop\ContactList\UnitTest\bin\Debug\ContactListLibrary.dll
+C:\Users\Jack\Desktop\ContactList\UnitTest\bin\Debug\ContactListLibrary.pdb
+C:\Users\Jack\Desktop\ContactList\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\ContactList\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Jack\Desktop\ContactList\UnitTest\obj\Debug\UnitTest.pdb
